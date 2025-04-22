@@ -1,0 +1,41 @@
+# LaTeX intermediate and output files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.bbl
+*.blg
+*.brf
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.vrb
+
+# Editors and OS-specific files
+*~
+*.swp
+*.bak
+.DS_Store
+Thumbs.db
+
+# Output files
+*.pdf
+*.dvi
+*.ps
+
+# TexLive and other build systems
+*.xdv
+*.run.xml
+*.synctex.gz(busy)
+
+# Generated folders (e.g., Overleaf)
+_build/
+output/
